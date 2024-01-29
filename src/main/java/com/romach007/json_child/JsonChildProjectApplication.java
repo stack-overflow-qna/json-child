@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MultiplicationProjectApplication {
+public class JsonChildProjectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MultiplicationProjectApplication.class, args);
+		SpringApplication.run(JsonChildProjectApplication.class, args);
 	}
 
 }
